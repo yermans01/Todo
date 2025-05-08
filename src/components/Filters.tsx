@@ -1,4 +1,4 @@
-import { TODO_FILTERS } from '../const';
+import { TODO_FILTERS } from '../consts.js';
 import { type FilterValue } from '../types.js';
 
 const FILTERS_BUTTONS = {

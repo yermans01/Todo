@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { TODO_FILTERS } from '../const';
+import { TODO_FILTERS } from '../consts';
 import { mockTodos } from '../mocks/todos';
 import { type TodoList, type FilterValue } from '../types';
 

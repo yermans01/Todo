@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from 'react';
-import { TODO_FILTERS } from '../const';
+import { TODO_FILTERS } from '../consts';
 import { fetchTodos, updateTodos } from '../services/todos';
 import { type TodoList, type FilterValue } from '../types';
 
