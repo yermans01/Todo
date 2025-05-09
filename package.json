@@ -1,6 +1,6 @@
 {
     "name": "todo",
-    "homepage": "https://github.com/yermans01/Todo",
+    "homepage": "https://github.com/yermans01/todo",
     "private": true,
     "version": "0.0.0",
     "type": "module",
