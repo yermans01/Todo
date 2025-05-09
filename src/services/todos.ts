@@ -1,6 +1,6 @@
-import { type TodoList } from '../types';
+import { type TodoList } from '../types.ts';
 
-const API_URL = 'https://api.jsonbin.io/v3/b/681cff6c8960c979a595ae92';
+const API_URL = 'https://api.jsonbin.io/v3/b/681e2ccf8a456b79669a7b74';
 
 interface Todo {
     id: string;
